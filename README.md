@@ -36,7 +36,7 @@ project-folder/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ASHWIN-CHAVHAN-121/To-Do-List.git
+   git clone https://github.com/Ashwin-Chavhan/To-Do-List.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -57,7 +57,7 @@ project-folder/
 
 ## Demo 🎥
 
-[Live Demo](#) *(https://ashwin-chavhan-121.github.io/To-Do-List/)*
+[Live Demo](#) *(https://ashwin-chavhan.github.io/To-Do-List/)*
 
 ---
 
